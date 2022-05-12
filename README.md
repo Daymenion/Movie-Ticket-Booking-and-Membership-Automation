@@ -1,4 +1,4 @@
-# Cinema-Ticket-and-Membership-Automation
+# Cinema-Ticket-and-Membership-Automation in c#
 Cinema Ticket and Membership Automation
 
 --Nothing Is Static.
