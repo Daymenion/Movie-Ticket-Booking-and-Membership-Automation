@@ -1,0 +1,148 @@
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\MoviesPlus.csprojResolveAssemblyReference.cache
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\Interop.WMPLib.dll
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\AxInterop.WMPLib.dll
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\MoviesPlus.csproj.ResolveComReference.cache
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.addmovies.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.booked.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.BookM.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.canceltik.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.home.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.homemanager.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.manager.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.mdihome.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.Movied.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.Payment.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.pwait.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.signuppg.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\MoviesPlus.Properties.Resources.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.signinpg.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\BookMyshow.Welcome.resources
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\MoviesPlus.csproj.GenerateResource.Cache
+D:\Data\project c#\MoviesPlus\BookMyshow\bin\Debug\MoviesPlus.exe.config
+D:\Data\project c#\MoviesPlus\BookMyshow\bin\Debug\MoviesPlus.exe
+D:\Data\project c#\MoviesPlus\BookMyshow\bin\Debug\MoviesPlus.pdb
+D:\Data\project c#\MoviesPlus\BookMyshow\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Data\project c#\MoviesPlus\BookMyshow\bin\Debug\Interop.WMPLib.dll
+D:\Data\project c#\MoviesPlus\BookMyshow\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Data\project c#\MoviesPlus\BookMyshow\bin\Debug\AxInterop.WMPLib.dll
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\MoviesPlus.exe
+D:\Data\project c#\MoviesPlus\BookMyshow\obj\Debug\MoviesPlus.pdb
+D:\C# Projects\MoviesPlus Final\MoviesPlus\bin\Debug\MoviesPlus.exe.config
+D:\C# Projects\MoviesPlus Final\MoviesPlus\bin\Debug\MoviesPlus.exe
+D:\C# Projects\MoviesPlus Final\MoviesPlus\bin\Debug\MoviesPlus.pdb
+D:\C# Projects\MoviesPlus Final\MoviesPlus\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\C# Projects\MoviesPlus Final\MoviesPlus\bin\Debug\Interop.WMPLib.dll
+D:\C# Projects\MoviesPlus Final\MoviesPlus\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\C# Projects\MoviesPlus Final\MoviesPlus\bin\Debug\AxInterop.WMPLib.dll
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\MoviesPlus.csprojResolveAssemblyReference.cache
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\Interop.WMPLib.dll
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\AxInterop.WMPLib.dll
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\MoviesPlus.csproj.ResolveComReference.cache
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.addmovies.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.booked.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.BookM.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.canceltik.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.home.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.homemanager.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.manager.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.mdihome.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.Movied.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.Payment.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.pwait.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.signuppg.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\MoviesPlus.Properties.Resources.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.signinpg.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\BookMyshow.Welcome.resources
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\MoviesPlus.csproj.GenerateResource.Cache
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\MoviesPlus.exe
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\MoviesPlus.pdb
+D:\C# Projects\MoviesPlus Final\MoviesPlus\obj\Debug\MoviesPlus.csproj.CoreCompileInputs.cache
+D:\C# Projects\MoviesPlus\MoviesPlus\bin\Debug\MoviesPlus.exe.config
+D:\C# Projects\MoviesPlus\MoviesPlus\bin\Debug\MoviesPlus.exe
+D:\C# Projects\MoviesPlus\MoviesPlus\bin\Debug\MoviesPlus.pdb
+D:\C# Projects\MoviesPlus\MoviesPlus\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\C# Projects\MoviesPlus\MoviesPlus\bin\Debug\Interop.WMPLib.dll
+D:\C# Projects\MoviesPlus\MoviesPlus\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\C# Projects\MoviesPlus\MoviesPlus\bin\Debug\AxInterop.WMPLib.dll
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\MoviesPlus.csprojResolveAssemblyReference.cache
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\Interop.WMPLib.dll
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\AxInterop.WMPLib.dll
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\MoviesPlus.csproj.ResolveComReference.cache
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.addmovies.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.booked.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.BookM.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.canceltik.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.home.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.homemanager.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.manager.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.mdihome.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.Movied.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.Payment.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.pwait.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.signuppg.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\MoviesPlus.Properties.Resources.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.signinpg.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\BookMyshow.Welcome.resources
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\MoviesPlus.csproj.GenerateResource.Cache
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\MoviesPlus.csproj.CoreCompileInputs.cache
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\MoviesPlus.exe
+D:\C# Projects\MoviesPlus\MoviesPlus\obj\Debug\MoviesPlus.pdb
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.csproj.AssemblyReference.cache
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.csproj.SuggestedBindingRedirects.cache
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\Interop.WMPLib.dll
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\AxInterop.WMPLib.dll
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.csproj.ResolveComReference.cache
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.addmovies.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.booked.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.BookM.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.canceltik.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.home.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.homemanager.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.manager.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.mdihome.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.Movied.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.Payment.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.pwait.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.signuppg.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.Properties.Resources.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.signinpg.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.Welcome.resources
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.csproj.GenerateResource.cache
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.csproj.CoreCompileInputs.cache
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.exe
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.pdb
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\bin\Debug\MoviesPlus.exe.config
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\bin\Debug\MoviesPlus.exe
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\bin\Debug\MoviesPlus.pdb
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\bin\Debug\Interop.WMPLib.dll
+D:\PROJECTS\MY_OWN_PROJECTS\TREGEDYAS\MoviesPlus\bin\Debug\AxInterop.WMPLib.dll
+D:\PROJECTS\TREGEDYAS\MoviesPlus\bin\Debug\MoviesPlus.exe.config
+D:\PROJECTS\TREGEDYAS\MoviesPlus\bin\Debug\MoviesPlus.exe
+D:\PROJECTS\TREGEDYAS\MoviesPlus\bin\Debug\MoviesPlus.pdb
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.csproj.AssemblyReference.cache
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.csproj.SuggestedBindingRedirects.cache
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.addmovies.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.booked.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.BookM.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.canceltik.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.home.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.homemanager.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.manager.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.mdihome.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.Movied.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.Payment.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.pwait.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.signuppg.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.Properties.Resources.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.signinpg.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\BookMyshow.Welcome.resources
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.csproj.GenerateResource.cache
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.csproj.CoreCompileInputs.cache
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.exe
+D:\PROJECTS\TREGEDYAS\MoviesPlus\obj\Debug\MoviesPlus.pdb
