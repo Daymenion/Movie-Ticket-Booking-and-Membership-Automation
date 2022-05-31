@@ -52,7 +52,7 @@ Cinema Ticket and Membership Automation
 # BOOKED SHOW SCREEN: (booked.cs)
 ![image](https://user-images.githubusercontent.com/44711182/171228764-b63cbb79-2781-4416-97d9-596fc69503e7.png)
 
-# CANCEl BOOK SCREEN: (canceltik.cs)
+# CANCEL BOOK SCREEN: (canceltik.cs)
 ![image](https://user-images.githubusercontent.com/44711182/171229017-e49b4417-6778-4306-9dd7-4a765edfe42a.png)
 
 # MOVIE ADD SCREEN: (addmovıes.cs)
