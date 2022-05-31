@@ -1,6 +1,6 @@
 # Cinema-Ticket-and-Membership-Automation in c#
 
-PROJECT FILES AND RESOURCES ARE IN RAR FILE.
+PROJECT FILES AND RESOURCES ARE IN ZIP FILE.
 
 Cinema Ticket and Membership Automation
 
